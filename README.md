@@ -1,6 +1,6 @@
-# Fortune Generator
-A simple one-page HTML web app that generates random fortune messages and displays a QR code for each result.
-This project was designed for a Chinese New Year Lantern Festival event, allowing users to scan a QR code and instantly receive their fortune on their mobile devices.
+# fortune-generator
+A simple one-page HTML web app that generates random fortune messages.
+This web page was designed for a Chinese New Year Lantern Festival event, allowing users to scan a QR code and instantly receive their fortune on their mobile devices.
 
 ## Features
 - Random fortune message generation
